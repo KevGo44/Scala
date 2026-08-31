@@ -44,5 +44,10 @@ build/
 ### Mac OS ###
 .DS_Store
 
+### Windows ###
+Thumbs.db
+
 ### Scala ###
 .bsp/
+.scala-build/
+.metals/
